@@ -18,9 +18,9 @@ Product.init(
     stock: {
       type: DataTypes.INTEGER,
     },
-    tagIds: {
-      type: DataTypes.ARRAY(DataTypes.INTEGER),
-    },
+    category_id: {
+      type: DataTypes.INTEGER,
+    }    
   },
   {
     sequelize,
