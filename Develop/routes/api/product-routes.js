@@ -14,12 +14,16 @@ router.get('/', (req, res) => {
     include: [{
       model: Category,
       attributes: ['id', 'category_name']
+    }],
+    include: [{
+      model: Category,
+      attributes: ['id', 'tag_name']
     }]
   }).then((products) => {
     res.json(products);
   });
 });
- 
+
 
 // get one product
 router.get('/:id', (req, res) => {
