@@ -22,11 +22,13 @@ Create a back end database for an E-commerce company. The application will demon
 This application is user friendly and has a varirty of built in features:
 * Intutitive Indexing
 * Search and Retrieval Features
-* Secarch by Name
-* Search by Title
-* Search by Salary
-* Search by Department ID
-* Add employee functionality
+* Secarch by Product
+* Search by Category
+* Search by Tag
+* Add or Delete Products
+* Add or Delete Categories
+* Add or Delete Tags
+
  
 ## Technologies
 * JavaScript
