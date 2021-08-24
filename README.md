@@ -32,11 +32,9 @@ This application is user friendly and has a varirty of built in features:
 * JavaScript
 * MYSQL2 package
 * Inquirer package
-* Console.table package
 * Node.js
 * Express.js
 * npm modules
-* dotenv
 * Sequelize
 
 ## Licenses 
