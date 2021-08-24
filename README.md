@@ -44,7 +44,7 @@ This application is user friendly and has a varirty of built in features:
 
 
 ## Video
-<iframe src="https://drive.google.com/file/d/1EOqavdItohViQK9zbFUbkkZIkwCKcwsJ/view" width="640" height="480"></iframe>
+<iframe src="https://edit.screencastify.com/edit" width="640" height="480"></iframe>
   
  ![images](./Assets/13-orm-homework-demo-01.gif)
 
